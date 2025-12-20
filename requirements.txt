@@ -1,0 +1,11 @@
+pytrends
+requests
+typing-extensions
+statsmodels
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+scikit-learn
+causalimpact
